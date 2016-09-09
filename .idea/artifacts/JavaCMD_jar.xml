@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JavaCMD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaCMD_jar</output-path>
+    <root id="archive" name="JavaCMD.jar">
+      <element id="module-output" name="JavaCMD" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jsch-0.1.53.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
